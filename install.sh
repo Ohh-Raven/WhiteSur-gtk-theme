@@ -7,7 +7,7 @@
 # for example ( cd blabla && do_blabla ) or $( cd .. && do_blabla )
 #
 # SUGGESTION: Please don't put any dependency installation here
-
+# like this :)
 ###############################################################################
 #                             VARIABLES & HELP                                #
 ###############################################################################
